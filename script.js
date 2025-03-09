@@ -95,3 +95,5 @@ weatherBtn.onclick = () => {
 
 // const arr = [1, 2, 3];
 // const [first, second, third] = arr;
+
+// comment for Git
